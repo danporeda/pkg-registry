@@ -10,5 +10,5 @@ export interface PackageDetails {
     email: string;
     name: string;
   }[];
-  licenses: string;
+  license: string;
 }
