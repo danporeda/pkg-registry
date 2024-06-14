@@ -1,4 +1,4 @@
-import type { PackageDetails } from "../types/packageDetails";;
+import type { PackageDetails } from "../types/packageDetails";
 
 const FEATURED_PACKAGES = [
   'react', 
